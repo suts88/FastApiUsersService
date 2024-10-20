@@ -1,0 +1,17 @@
+# Ignoriere das gesamte Verzeichnis .git
+.git
+
+# Ignoriere .env-Dateien
+.env
+
+# Ignoriere alle Logdateien
+*.log
+
+# Ignoriere das Verzeichnis node_modules (falls du Node.js verwendest)
+node_modules
+
+# Ignoriere Python Cache Dateien
+__pycache__/
+*.pyc
+
+*.http
